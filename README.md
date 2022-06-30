@@ -45,6 +45,5 @@ This template follows a very simple project structure:
 then
 `npm run android`
 
-## start the app
-
+## Start the app
 `npm start`
